@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SHARE_DIR=/share/kocom
+SHARE_DIR=/share/kocom_jk
 
 mkdir -p $SHARE_DIR
 if [ ! -f $SHARE_DIR/kocom.conf ]; then
